@@ -65,3 +65,7 @@ yarn add @mui/system @mui/styled-engine-sc styled-components
 ```
 ## Basic Concepts
 
+### Typography
+The theme provides a set of type sizes that work well together, and also with the layout grid.
+Very common and used in almost every Material UI design code.
+
